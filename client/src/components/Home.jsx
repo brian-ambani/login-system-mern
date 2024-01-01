@@ -13,10 +13,10 @@ const Home = () => {
             <span className="text-white font-semibold text-lg">FlinX</span>
           </div>
           <div className="flex items-center space-x-4">
-            <Link to="docs" className="text-white hover:text-gray-300">
+            <Link to="/docs" className="text-white hover:text-gray-300">
               Docs
             </Link>
-            <Link to="docs" className="text-white hover:text-gray-300">
+            <Link to="/pricing" className="text-white hover:text-gray-300">
               Pricing
             </Link>
             <Link to="docs" className="text-white hover:text-gray-300">
